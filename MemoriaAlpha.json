@@ -1,0 +1,12 @@
+{
+  "Author": "LegendsOfTheGame",
+  "Name": "Memoria Alpha",
+  "Punchline": "FFXIV Quest Tracking & Journal System",
+  "Description": "A comprehensive quest tracking system organizing Main Scenario Quests, dungeons, trials, and side content with detailed progression tracking.",
+  "InternalName": "MemoriaAlpha",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Changelog": "v14.2.0.0 - Initial plugin structure"
+}
